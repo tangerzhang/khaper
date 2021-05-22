@@ -1,5 +1,8 @@
 This is a software for remove dupplication for genome. 
 
+[![DOI](https://zenodo.org/badge/369738578.svg)](https://zenodo.org/badge/latestdoi/369738578)
+
+
 **Note:**
 
 * This software Need > 100G memory 
